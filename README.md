@@ -1,5 +1,7 @@
 Efficient Parking Documentation
 ==============
+This documentation is in italian because it is published for the school exam ✔
+
  # INDICE 📕                                                                                        
  ### ⭕ ABSTRACT <br />
  ### ⭕ INTRODUZIONE <br />
